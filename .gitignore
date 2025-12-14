@@ -1,0 +1,17 @@
+# Mac junk
+.DS_Store
+
+# Java compiled files
+*.class
+
+# Maven
+target/
+
+# NetBeans
+nbproject/
+build/
+manifest.mf
+
+# Logs
+*.log
+
